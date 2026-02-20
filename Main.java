@@ -1,5 +1,5 @@
 import java.util.Random;
-public class Main {
+public class Lab1DotProduct {
     public static void main(String[] args) {
         int n = 5;
 
